@@ -9,7 +9,7 @@ self explanatory, although here I'll list some important things:
 -> applies a STFT onto a dummy signal made up of a sinusoidal pulse, which I made for proof of concept.
 
 'Mode Isolation' is made up of two cells
--> running the first applies an STFT to a specified signal .txt file, which is assumed to be made up of a time column and then a value column, with no strings. The output is plotted as heatmap.
+-> running the first applies an STFT to a specified signal .txt file, which is assumed to be made up of a time column and then a value column, with no strings. The output is plotted as heatmap. It works for signals of any length.
 -> make sure the signal file is accessible by the notebook!
 
 -> the second cell applies an STFT to all the files in a folder (assuming the same structure as was mentioned before) and adds them all together, plotting them onto one heatmap.
