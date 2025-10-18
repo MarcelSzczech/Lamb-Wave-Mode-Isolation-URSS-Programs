@@ -25,7 +25,7 @@ self explanatory, although here I'll list some important things:
 
 ### Tips for the use of the programs ###
 
--> The cursors on the heatmaps can be disabled by comeenting out 'ax.axvline' and 'ax.axhline' lines
+-> The cursors on the heatmaps can be disabled by commenting out 'ax.axvline' and 'ax.axhline' lines
 -> The scale of the heatmaps can be adjusted by the 'vmax' argument of sb.heatmap
 -> The thickness of the plate can be adjusted on line 94 of the first cell of the 'Rose CH19 heatmap' notebook
 -> The phase velocity - frequency curves for the modes in the notebooks are FOR ALUMINIUM!
