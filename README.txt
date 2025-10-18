@@ -1,6 +1,6 @@
 readme file written on 06/10/2025
 
-These python Jupyter notebooks were written by me (Marcel Szczech) during my 2025 summer URSS project on isolating Lamb waves in an aluminiun plate. Each notebook is thoroughly commented should be 
+These python Jupyter notebooks were written by me (Marcel Szczech) during my 2025 summer URSS project on isolating Lamb waves in an aluminiun plate. Each notebook is thoroughly commented and should be 
 self explanatory, although here I'll list some important things:
 
 ### Brief descsription of each Jupyter notebook ###
